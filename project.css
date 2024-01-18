@@ -1,0 +1,22 @@
+body {
+	background-color: #E8D8C9 ;
+}
+
+table{
+	color:#605048;
+	background-color:#D5B990 ;
+}
+table, td, th {
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid;
+	border-color:#B6976C;
+	padding: 10px;
+	font-family:  Verdana, Arial, sans-serif;
+	text-align: center;
+	
+}
+
+p {
+	text-align: center;
+}
